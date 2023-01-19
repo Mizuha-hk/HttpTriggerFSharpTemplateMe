@@ -1,5 +1,0 @@
-{
-  "extensions":[
-    { "name": "AzureTables", "typeName":"Microsoft.Azure.WebJobs.Extensions.Tables.AzureTablesWebJobsStartup, Microsoft.Azure.WebJobs.Extensions.Tables, Version=1.0.0.0, Culture=neutral, PublicKeyToken=92742159e12e44c8"}
-  ]
-}
