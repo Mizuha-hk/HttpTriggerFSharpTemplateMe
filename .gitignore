@@ -264,4 +264,9 @@ __pycache__/
 *.pyc
 
 #fsharp
-.AssemblyInfo.fs
+*.AssemblyInfo.fs
+
+bin/
+.template.config/
+obj/
+Properties/
